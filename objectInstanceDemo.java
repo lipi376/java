@@ -1,6 +1,6 @@
 class thsdemo{
     
-    static int num=3;
+    int num=3;
     public void set()
     {
         num++;
